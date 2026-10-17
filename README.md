@@ -16,4 +16,4 @@ Implementation and evaluation of randomized and adaptive column-selection algori
 - **Mathematical Areas:** Numerical linear algebra, optimization, probability, and statistics
 
 # Links
-[https://www.linkedin.com/in/lukestovall]
+[LinkedIn](https://www.linkedin.com/in/lukestovall)
